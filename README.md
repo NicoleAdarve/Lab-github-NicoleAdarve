@@ -4,4 +4,4 @@
  
 Aplicando lo aprendido en clase a mi laboratorio
 
-Editando desde el local para poner a prueba el git pull
+Editando desde el repo remoto para poner a prueba el git pull
